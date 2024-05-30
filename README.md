@@ -63,3 +63,11 @@ Este projeto apresenta uma visualização interativa do aprendizado por reforço
 3. Visualize o agente treinado:
 
    ```python taxi_q.py --visualize --trained```
+   
+## Agradecimentos
+
+Gostaria de expressar minha imensa gratidão ao Victor Dias, do canal Universo Programado, por indiretamente inspirar este sonho de aprender Machine Learning através dos seus conteúdos. Se não fosse por ele, eu não teria descoberto este universo tão cedo.
+https://www.universoprogramado.com/
+
+O Matheus do passado se sentiria orgulhoso.
+
