@@ -2,6 +2,10 @@
 
 Este projeto apresenta uma visualização interativa do aprendizado por reforço utilizando o ambiente Taxi-v3 da biblioteca Gymnasium (anteriormente OpenAI Gym). O objetivo é demonstrar de forma didática o processo de aprendizado de um agente, comparando um agente sem treinamento, o progresso das recompensas durante o treinamento e o desempenho do agente treinado. Tudo isso é exibido em uma única interface gráfica utilizando Pygame.
 
+(Gif abaixo do agente sem treinamento, gráfico da curva de aprendizagem do agente e por final o agente treinado)
+![Aprendizado-por-Reforco-no-Ambiente-Taxi-v3/Taxi.gif](https://github.com/Matheussbzp/Aprendizado-por-Reforco-no-Ambiente-Taxi-v3/blob/bc7ccf570fcb6414b67846c85c383b92115be20b/Taxi.gif)
+                                                       
+
 ## Objetivos do Projeto
 
 1. **Demonstrar o Aprendizado por Reforço**: Mostrar o processo de aprendizado de um agente no ambiente Taxi-v3.
